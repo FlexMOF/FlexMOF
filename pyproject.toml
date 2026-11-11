@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flexmof"
+version = "0.1.0"
+description = "Native DDP training and checkpoint-compatible MOF structure sampling"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "ase>=3.23",
+  "lmdb>=1.4",
+  "numpy>=1.26,<2",
+  "pymatgen>=2024.5",
+  "PyYAML>=6.0",
+  "torch>=2.3",
+  "tqdm>=4.66",
+  "wandb>=0.18",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+linker = ["rdkit>=2024.3", "networkx>=3", "torch-geometric>=2.5", "scipy>=1.11"]
+
+[project.scripts]
+flexmof = "flexmof.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["flexmof*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

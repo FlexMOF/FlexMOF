@@ -1,0 +1,17 @@
+{
+  "output_dir": "runs/adsorption_training",
+  "checkpoint": "checkpoints/structure_ddpm_e370_inference.pt",
+  "checkpoint_sha256": "351404ef67ab445591c5639f550176ca14caf565272ddda40decf1a03b4f35e6",
+  "train_lmdb": "data/odac25/odac25_train.lmdb",
+  "train_metadata": "data/odac25/odac25_train_metadata.pkl",
+  "val_lmdb": "data/odac25/odac25_val.lmdb",
+  "val_metadata": "data/odac25/odac25_val_metadata.pkl",
+  "world_size": 32,
+  "lr": 0.00003,
+  "warmup": 500,
+  "grad_clip": 1.0,
+  "max_square": 500000,
+  "max_batch": 16,
+  "seed": 20260914,
+  "save_every": 250
+}

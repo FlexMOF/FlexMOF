@@ -1,0 +1,11 @@
+torch==2.10.0
+numpy==1.26.4
+scipy==1.17.1
+pymatgen==2026.5.4
+ase==3.25.0
+lmdb==2.1.1
+PyYAML==6.0.3
+rdkit==2026.3.1
+networkx==3.6.1
+torch-geometric==2.7.0
+tqdm==4.67.3

@@ -1,0 +1,22 @@
+[
+  {
+    "file": "structure_ddpm_e370_inference.pt",
+    "bytes": 1705662857,
+    "sha256": "351404ef67ab445591c5639f550176ca14caf565272ddda40decf1a03b4f35e6"
+  },
+  {
+    "file": "joint_generation_e226_inference.pt",
+    "bytes": 1705662857,
+    "sha256": "554503150202a309d906078479eeeb9662dddb0af9c1fe5e0681eea27954ea23"
+  },
+  {
+    "file": "structure_ddpm_pbc_off_inference.pt",
+    "bytes": 1705662857,
+    "sha256": "a43c45d92bd5b83533ff6c2f821796a30509101473f708124f6e4a4db3fde800"
+  },
+  {
+    "file": "adsorption_inference.pt",
+    "bytes": 1706074326,
+    "sha256": "f37e315fd4545d4ee31a42f8050bcf3298594a38c5e89d33dd5a502ed47829e7"
+  }
+]

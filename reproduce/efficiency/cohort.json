@@ -1,0 +1,3022 @@
+{
+  "groups": {
+    "1-96": {
+      "population": 9082,
+      "selected": 50
+    },
+    "97-192": {
+      "population": 8442,
+      "selected": 50
+    },
+    "193-384": {
+      "population": 1819,
+      "selected": 50
+    },
+    "385+": {
+      "population": 449,
+      "selected": 50
+    }
+  },
+  "samples": [
+    {
+      "sample_id": 17469,
+      "dataset_index": 17469,
+      "data_key": "257784",
+      "atoms": 48,
+      "candidate_seeds": [
+        29816,
+        129819,
+        229822,
+        329825,
+        429828
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "e3c9f9c9ddc42ffb8061d327abbed692a7672ee057e857133c5cca6049b25e1e"
+    },
+    {
+      "sample_id": 22865,
+      "dataset_index": 22865,
+      "data_key": "307154",
+      "atoms": 84,
+      "candidate_seeds": [
+        35212,
+        135215,
+        235218,
+        335221,
+        435224
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "d946baabfdf75386fe632de95f644e5b2467bcbedc2cba928683bc65fbfe7ecb"
+    },
+    {
+      "sample_id": 636,
+      "dataset_index": 636,
+      "data_key": "105988",
+      "atoms": 92,
+      "candidate_seeds": [
+        12983,
+        112986,
+        212989,
+        312992,
+        412995
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "be22283d3598caf658ccbb6ec12f098ac649449f7162159165cbc5d7300c945d"
+    },
+    {
+      "sample_id": 4180,
+      "dataset_index": 4180,
+      "data_key": "138483",
+      "atoms": 78,
+      "candidate_seeds": [
+        16527,
+        116530,
+        216533,
+        316536,
+        416539
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "66b980dfe7a146d96a56a12b76190a327caa8a980c3b723fe8fa7d658f12261c"
+    },
+    {
+      "sample_id": 4124,
+      "dataset_index": 4124,
+      "data_key": "138010",
+      "atoms": 76,
+      "candidate_seeds": [
+        16471,
+        116474,
+        216477,
+        316480,
+        416483
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "17d1af9789b55287b824ed8a0649904ceca04d86066d08c58f16ed02cea98689"
+    },
+    {
+      "sample_id": 26684,
+      "dataset_index": 26684,
+      "data_key": "63040",
+      "atoms": 42,
+      "candidate_seeds": [
+        39031,
+        139034,
+        239037,
+        339040,
+        439043
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "618eb5756124ac72fe8af89f129142bb3da820c0231dceee78abe61cfc5a3b33"
+    },
+    {
+      "sample_id": 22987,
+      "dataset_index": 22987,
+      "data_key": "3081",
+      "atoms": 96,
+      "candidate_seeds": [
+        35334,
+        135337,
+        235340,
+        335343,
+        435346
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "4e54ca807ebd3f8a8f0cbcd2471c93938cc6c76d8c8df0bd0ca40cb40722f0e0"
+    },
+    {
+      "sample_id": 10470,
+      "dataset_index": 10470,
+      "data_key": "196183",
+      "atoms": 96,
+      "candidate_seeds": [
+        22817,
+        122820,
+        222823,
+        322826,
+        422829
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "32cb2a16cdc71b0463e9460c7783766d4f623d80f72c2eac784f995507892e1b"
+    },
+    {
+      "sample_id": 24854,
+      "dataset_index": 24854,
+      "data_key": "47067",
+      "atoms": 42,
+      "candidate_seeds": [
+        37201,
+        137204,
+        237207,
+        337210,
+        437213
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "a76cd79155dff8c98e07c78fd93a5ae288d74c6189ec0f6e945e4ecf93f5f4fa"
+    },
+    {
+      "sample_id": 11205,
+      "dataset_index": 11205,
+      "data_key": "202521",
+      "atoms": 82,
+      "candidate_seeds": [
+        23552,
+        123555,
+        223558,
+        323561,
+        423564
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "4a24526ce620407175a8bf1585650434484f33bb869e0c5a02e11075d491d0ae"
+    },
+    {
+      "sample_id": 15392,
+      "dataset_index": 15392,
+      "data_key": "239019",
+      "atoms": 64,
+      "candidate_seeds": [
+        27739,
+        127742,
+        227745,
+        327748,
+        427751
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "4890600ed31726a1b66314b31572d710b3688214057cf859fce8d1b2dc462ef7"
+    },
+    {
+      "sample_id": 21637,
+      "dataset_index": 21637,
+      "data_key": "295982",
+      "atoms": 68,
+      "candidate_seeds": [
+        33984,
+        133987,
+        233990,
+        333993,
+        433996
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "dec80186832902fdd75dd6119c2595da24e19948989ac742f0bacb698bb87b70"
+    },
+    {
+      "sample_id": 19643,
+      "dataset_index": 19643,
+      "data_key": "278326",
+      "atoms": 93,
+      "candidate_seeds": [
+        31990,
+        131993,
+        231996,
+        331999,
+        432002
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "a8b665cbf72dac49fe23c4e01840d85de42542b7c9093b513eab31aa596fe3af"
+    },
+    {
+      "sample_id": 19931,
+      "dataset_index": 19931,
+      "data_key": "280710",
+      "atoms": 65,
+      "candidate_seeds": [
+        32278,
+        132281,
+        232284,
+        332287,
+        432290
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "b5fe9b0aa82f501afb1681078291ca25faba3b4ff79a665eb9ad945926927590"
+    },
+    {
+      "sample_id": 18738,
+      "dataset_index": 18738,
+      "data_key": "269615",
+      "atoms": 74,
+      "candidate_seeds": [
+        31085,
+        131088,
+        231091,
+        331094,
+        431097
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "ecb65e8f26701a0541f168ef2631b029fed0fbe490bcf78f8efeb88d14e2904e"
+    },
+    {
+      "sample_id": 20810,
+      "dataset_index": 20810,
+      "data_key": "288707",
+      "atoms": 64,
+      "candidate_seeds": [
+        33157,
+        133160,
+        233163,
+        333166,
+        433169
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "9cca093c940fe3fd1c44c13bcd04a2eba978c1608918f3d6179a3bd8108a527d"
+    },
+    {
+      "sample_id": 26543,
+      "dataset_index": 26543,
+      "data_key": "61776",
+      "atoms": 76,
+      "candidate_seeds": [
+        38890,
+        138893,
+        238896,
+        338899,
+        438902
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "907a54dca86d74e8a9db9f6a37d37d444cb206e1d6ebfd89c9f657932ae98345"
+    },
+    {
+      "sample_id": 15720,
+      "dataset_index": 15720,
+      "data_key": "241835",
+      "atoms": 76,
+      "candidate_seeds": [
+        28067,
+        128070,
+        228073,
+        328076,
+        428079
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "944fe92ddef12de8ad7676cfe11ee17e347d68cb6610522df3fd81fe6a330e77"
+    },
+    {
+      "sample_id": 18373,
+      "dataset_index": 18373,
+      "data_key": "266094",
+      "atoms": 94,
+      "candidate_seeds": [
+        30720,
+        130723,
+        230726,
+        330729,
+        430732
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "0f06b992b48599391c57a9e2bc4f2d665efae1b924adb15836b0b2c96e2441ec"
+    },
+    {
+      "sample_id": 12452,
+      "dataset_index": 12452,
+      "data_key": "213247",
+      "atoms": 96,
+      "candidate_seeds": [
+        24799,
+        124802,
+        224805,
+        324808,
+        424811
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "c521e014c28bfcbcc7447ccafffce4dd78ced3fa09281b25f15dbf3115076a79"
+    },
+    {
+      "sample_id": 27689,
+      "dataset_index": 27689,
+      "data_key": "71800",
+      "atoms": 88,
+      "candidate_seeds": [
+        40036,
+        140039,
+        240042,
+        340045,
+        440048
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "f0d97a5b1fc4969a18b03a6fde712df9b8086c187246425126a26d4116e272ac"
+    },
+    {
+      "sample_id": 18877,
+      "dataset_index": 18877,
+      "data_key": "271030",
+      "atoms": 78,
+      "candidate_seeds": [
+        31224,
+        131227,
+        231230,
+        331233,
+        431236
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "be725a89748cac7f827f6a94bda73101161d112ffcd311b17101beff671bc6bf"
+    },
+    {
+      "sample_id": 21338,
+      "dataset_index": 21338,
+      "data_key": "293313",
+      "atoms": 92,
+      "candidate_seeds": [
+        33685,
+        133688,
+        233691,
+        333694,
+        433697
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "8757df358e40971ec7924cfb9b674d151b8b9f0f743f8fa7901cc0faaf7e358a"
+    },
+    {
+      "sample_id": 14989,
+      "dataset_index": 14989,
+      "data_key": "235600",
+      "atoms": 78,
+      "candidate_seeds": [
+        27336,
+        127339,
+        227342,
+        327345,
+        427348
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "97a25c8dc96e56ce503590d114b1c625414710300cde6c6bd5665f831c00dc99"
+    },
+    {
+      "sample_id": 784,
+      "dataset_index": 784,
+      "data_key": "107421",
+      "atoms": 62,
+      "candidate_seeds": [
+        13131,
+        113134,
+        213137,
+        313140,
+        413143
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "b2c6accef37e6612e1959bc0e8dfac8c600f3aa8760a2771b1fc51ddf37e2097"
+    },
+    {
+      "sample_id": 10263,
+      "dataset_index": 10263,
+      "data_key": "194484",
+      "atoms": 92,
+      "candidate_seeds": [
+        22610,
+        122613,
+        222616,
+        322619,
+        422622
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "402447218fd3de8cf842a1b28cadb763190445c7ea3566c72e0ef2e42a69ea37"
+    },
+    {
+      "sample_id": 26525,
+      "dataset_index": 26525,
+      "data_key": "61632",
+      "atoms": 72,
+      "candidate_seeds": [
+        38872,
+        138875,
+        238878,
+        338881,
+        438884
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "3ce487ef6dd549be6ebfb2de9ece5eac45f1f08416f5eec200fdcabd32803f01"
+    },
+    {
+      "sample_id": 25017,
+      "dataset_index": 25017,
+      "data_key": "48477",
+      "atoms": 62,
+      "candidate_seeds": [
+        37364,
+        137367,
+        237370,
+        337373,
+        437376
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "179523fab20c2444796bd0970e8b18737ff0587256ce09d92b0b8e5bc19977e8"
+    },
+    {
+      "sample_id": 20272,
+      "dataset_index": 20272,
+      "data_key": "283557",
+      "atoms": 74,
+      "candidate_seeds": [
+        32619,
+        132622,
+        232625,
+        332628,
+        432631
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "f32138f53a345f93aaef9007f47fa109a2dd0146a15571f9bed2f1ea85821424"
+    },
+    {
+      "sample_id": 7486,
+      "dataset_index": 7486,
+      "data_key": "16835",
+      "atoms": 64,
+      "candidate_seeds": [
+        19833,
+        119836,
+        219839,
+        319842,
+        419845
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "9d73d88547ab694bafd3697ce03a557833f0b5fe7e45669985789a8cb4ad07e3"
+    },
+    {
+      "sample_id": 16191,
+      "dataset_index": 16191,
+      "data_key": "24638",
+      "atoms": 78,
+      "candidate_seeds": [
+        28538,
+        128541,
+        228544,
+        328547,
+        428550
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "06edaf7b41556b5d4ae5078f58679279417cfa5507ed7789023b6c48bb42a1e7"
+    },
+    {
+      "sample_id": 12775,
+      "dataset_index": 12775,
+      "data_key": "216068",
+      "atoms": 78,
+      "candidate_seeds": [
+        25122,
+        125125,
+        225128,
+        325131,
+        425134
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "0d4b0a128102aa7692a281d8f76b32f6e8d04020160faaeff58db542cc6aa665"
+    },
+    {
+      "sample_id": 22433,
+      "dataset_index": 22433,
+      "data_key": "303069",
+      "atoms": 72,
+      "candidate_seeds": [
+        34780,
+        134783,
+        234786,
+        334789,
+        434792
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "dcbf0e69a7b77f18007cb6f3a223a025f129074083db008c50f6f22441aa692b"
+    },
+    {
+      "sample_id": 8606,
+      "dataset_index": 8606,
+      "data_key": "178407",
+      "atoms": 54,
+      "candidate_seeds": [
+        20953,
+        120956,
+        220959,
+        320962,
+        420965
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "d868f8ababc8f74ca253b48f6efb26b5f16c5e58c0934450ca631fb35013ca4b"
+    },
+    {
+      "sample_id": 2157,
+      "dataset_index": 2157,
+      "data_key": "119875",
+      "atoms": 72,
+      "candidate_seeds": [
+        14504,
+        114507,
+        214510,
+        314513,
+        414516
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "13dd4fd91f400d7a78faa49d9938a1c36d895fa1c0f935622ecef42fe63bbe09"
+    },
+    {
+      "sample_id": 489,
+      "dataset_index": 489,
+      "data_key": "104570",
+      "atoms": 92,
+      "candidate_seeds": [
+        12836,
+        112839,
+        212842,
+        312845,
+        412848
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "34238b97c3d58e191f5ade4a116f7c46e1fc9c55d93329c7c0c5bded8a499db0"
+    },
+    {
+      "sample_id": 18217,
+      "dataset_index": 18217,
+      "data_key": "264623",
+      "atoms": 72,
+      "candidate_seeds": [
+        30564,
+        130567,
+        230570,
+        330573,
+        430576
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "f5790678e3630cc54f2b528f852933590420f2a34945a17fa23593aef03d7df5"
+    },
+    {
+      "sample_id": 688,
+      "dataset_index": 688,
+      "data_key": "106508",
+      "atoms": 67,
+      "candidate_seeds": [
+        13035,
+        113038,
+        213041,
+        313044,
+        413047
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "ed06d7b7a43cd27a9bc33bae23a732f710e5d8487d6edf61524a4949a9c5918c"
+    },
+    {
+      "sample_id": 10964,
+      "dataset_index": 10964,
+      "data_key": "200399",
+      "atoms": 82,
+      "candidate_seeds": [
+        23311,
+        123314,
+        223317,
+        323320,
+        423323
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "99064da6483b18af53b46de5570366bed0db5e2865b4e71ecd42e9f1b56e06c1"
+    },
+    {
+      "sample_id": 9627,
+      "dataset_index": 9627,
+      "data_key": "188496",
+      "atoms": 58,
+      "candidate_seeds": [
+        21974,
+        121977,
+        221980,
+        321983,
+        421986
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "7aea86a1530841393e8fbcddbdb9e0cb6765a2f78e5f5e304045b0923b28278d"
+    },
+    {
+      "sample_id": 27954,
+      "dataset_index": 27954,
+      "data_key": "74048",
+      "atoms": 84,
+      "candidate_seeds": [
+        40301,
+        140304,
+        240307,
+        340310,
+        440313
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "d2a7d0113374345c20c38abf1059754fccdb49fa5ee072b75b905549a1349a76"
+    },
+    {
+      "sample_id": 19199,
+      "dataset_index": 19199,
+      "data_key": "274175",
+      "atoms": 64,
+      "candidate_seeds": [
+        31546,
+        131549,
+        231552,
+        331555,
+        431558
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "6da4b6db32aac95e7c0f2c278fc968b7abae79f43ad1888e42f9ecdb1697a084"
+    },
+    {
+      "sample_id": 18216,
+      "dataset_index": 18216,
+      "data_key": "264620",
+      "atoms": 78,
+      "candidate_seeds": [
+        30563,
+        130566,
+        230569,
+        330572,
+        430575
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "a7f69b4b34ddbd650eedcb5ad0b25d4cba5b02ebc47d307968f56a0782f3a8ca"
+    },
+    {
+      "sample_id": 11680,
+      "dataset_index": 11680,
+      "data_key": "206672",
+      "atoms": 75,
+      "candidate_seeds": [
+        24027,
+        124030,
+        224033,
+        324036,
+        424039
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "b2c901c7913c6ed99fb7ee449831d46e95491bf0da674797075d1511073d0282"
+    },
+    {
+      "sample_id": 5521,
+      "dataset_index": 5521,
+      "data_key": "150836",
+      "atoms": 62,
+      "candidate_seeds": [
+        17868,
+        117871,
+        217874,
+        317877,
+        417880
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "64dfcf96d4986368bcae3e7c27ff2aedf0bbf79a558bee525d9a581bbd2ab115"
+    },
+    {
+      "sample_id": 15149,
+      "dataset_index": 15149,
+      "data_key": "237000",
+      "atoms": 76,
+      "candidate_seeds": [
+        27496,
+        127499,
+        227502,
+        327505,
+        427508
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "50658424ec4bf28dc502064a4479ba4d9301fba4e02b1126215a54e4f3cb5fc2"
+    },
+    {
+      "sample_id": 10473,
+      "dataset_index": 10473,
+      "data_key": "196196",
+      "atoms": 52,
+      "candidate_seeds": [
+        22820,
+        122823,
+        222826,
+        322829,
+        422832
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "cd8bc79ec583e0fc9bd47db7caba44dcf3c217901b5ce04a02efe43ebc95e94f"
+    },
+    {
+      "sample_id": 21702,
+      "dataset_index": 21702,
+      "data_key": "296535",
+      "atoms": 40,
+      "candidate_seeds": [
+        34049,
+        134052,
+        234055,
+        334058,
+        434061
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "b636184016a478a2dd7eecdc13c4ee9a4d37556cd7121fe4f47147fffa4c5f92"
+    },
+    {
+      "sample_id": 1251,
+      "dataset_index": 1251,
+      "data_key": "111782",
+      "atoms": 80,
+      "candidate_seeds": [
+        13598,
+        113601,
+        213604,
+        313607,
+        413610
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "8a324ac74bd79b5869b808a40a2ff15373cb3808e369f8aee3836b896b4afc46"
+    },
+    {
+      "sample_id": 19430,
+      "dataset_index": 19430,
+      "data_key": "276200",
+      "atoms": 62,
+      "candidate_seeds": [
+        31777,
+        131780,
+        231783,
+        331786,
+        431789
+      ],
+      "size_bin": "1-96",
+      "input_sha256": "e2114e6dc31b609161a5acfa6b9bbb532d75ce9fd72676913f755f78345ebbdf"
+    },
+    {
+      "sample_id": 10410,
+      "dataset_index": 10410,
+      "data_key": "19567",
+      "atoms": 119,
+      "candidate_seeds": [
+        22757,
+        122760,
+        222763,
+        322766,
+        422769
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "fb150aeb1095ca283edb9913c65030832440217245549fa9254446822efda2c3"
+    },
+    {
+      "sample_id": 22856,
+      "dataset_index": 22856,
+      "data_key": "307094",
+      "atoms": 120,
+      "candidate_seeds": [
+        35203,
+        135206,
+        235209,
+        335212,
+        435215
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "d9cad63e0ab5bf026c8df9b7150327086c4ab339ceeb12822c9c8292c15564ac"
+    },
+    {
+      "sample_id": 24620,
+      "dataset_index": 24620,
+      "data_key": "44928",
+      "atoms": 114,
+      "candidate_seeds": [
+        36967,
+        136970,
+        236973,
+        336976,
+        436979
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "6eef6d8c84ccebedacf46074ccfe91066fffe36f5047283ef7561791aefe349f"
+    },
+    {
+      "sample_id": 4653,
+      "dataset_index": 4653,
+      "data_key": "142990",
+      "atoms": 140,
+      "candidate_seeds": [
+        17000,
+        117003,
+        217006,
+        317009,
+        417012
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "c0053c55f0c0fb7615af947a47da72acf36e78de88f32d2790e33e14087ce336"
+    },
+    {
+      "sample_id": 5488,
+      "dataset_index": 5488,
+      "data_key": "150512",
+      "atoms": 174,
+      "candidate_seeds": [
+        17835,
+        117838,
+        217841,
+        317844,
+        417847
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "053fe9af61a903176b6a90834dcd5e6b2f5680a5eb90092677f38e5b85b160ea"
+    },
+    {
+      "sample_id": 30155,
+      "dataset_index": 30155,
+      "data_key": "93429",
+      "atoms": 116,
+      "candidate_seeds": [
+        42502,
+        142505,
+        242508,
+        342511,
+        442514
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "6377a3c4cdca3f9532f27b1328bb136d520fa0b4c71d874fd6d0c0eb4ff34453"
+    },
+    {
+      "sample_id": 11,
+      "dataset_index": 11,
+      "data_key": "100103",
+      "atoms": 122,
+      "candidate_seeds": [
+        12358,
+        112361,
+        212364,
+        312367,
+        412370
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "022d611ea5d7025153f5e0cb900742806ef6b7c6a96ea677ecf15956a514fde8"
+    },
+    {
+      "sample_id": 12836,
+      "dataset_index": 12836,
+      "data_key": "216665",
+      "atoms": 124,
+      "candidate_seeds": [
+        25183,
+        125186,
+        225189,
+        325192,
+        425195
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "a89e55429f87159d4ff7040dfdf6d4be14d1b4003c017f8eda4093b2bf7b00e4"
+    },
+    {
+      "sample_id": 14900,
+      "dataset_index": 14900,
+      "data_key": "234789",
+      "atoms": 108,
+      "candidate_seeds": [
+        27247,
+        127250,
+        227253,
+        327256,
+        427259
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "356e900baf67230bab50880f10f6c2df35467b4a901cf9c55fc1bf7017a02cb6"
+    },
+    {
+      "sample_id": 26574,
+      "dataset_index": 26574,
+      "data_key": "62039",
+      "atoms": 110,
+      "candidate_seeds": [
+        38921,
+        138924,
+        238927,
+        338930,
+        438933
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "bcf443e25f1635bad73f21bb19bff9e6e6bf968a532320b1c91c613189c696fc"
+    },
+    {
+      "sample_id": 4918,
+      "dataset_index": 4918,
+      "data_key": "145324",
+      "atoms": 176,
+      "candidate_seeds": [
+        17265,
+        117268,
+        217271,
+        317274,
+        417277
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "948cca87a6601085923bb56dfb6c71920ff9119eba3100ce8e2658eb0e3cbb1a"
+    },
+    {
+      "sample_id": 12448,
+      "dataset_index": 12448,
+      "data_key": "213200",
+      "atoms": 106,
+      "candidate_seeds": [
+        24795,
+        124798,
+        224801,
+        324804,
+        424807
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "20f12951c650004f1ddc90a588d5eee48c10bc44d0906ed62ab49e71fd47ce16"
+    },
+    {
+      "sample_id": 22284,
+      "dataset_index": 22284,
+      "data_key": "301755",
+      "atoms": 99,
+      "candidate_seeds": [
+        34631,
+        134634,
+        234637,
+        334640,
+        434643
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "308c83069fd8674133e189456a150e07e69c3be809ee257f322a8af03be237f4"
+    },
+    {
+      "sample_id": 4925,
+      "dataset_index": 4925,
+      "data_key": "145378",
+      "atoms": 154,
+      "candidate_seeds": [
+        17272,
+        117275,
+        217278,
+        317281,
+        417284
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "3a8ce25c852bc5fc0d9d66060342ceae81f700b850a7488ecd1bc393b0a3c211"
+    },
+    {
+      "sample_id": 24038,
+      "dataset_index": 24038,
+      "data_key": "39898",
+      "atoms": 100,
+      "candidate_seeds": [
+        36385,
+        136388,
+        236391,
+        336394,
+        436397
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "87637b301e87ae3f3dd5f692d38298b39456a0ab1c0e01533a94f21a0dd3783e"
+    },
+    {
+      "sample_id": 9430,
+      "dataset_index": 9430,
+      "data_key": "186654",
+      "atoms": 156,
+      "candidate_seeds": [
+        21777,
+        121780,
+        221783,
+        321786,
+        421789
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "ad8a135c04864f2596ed7c58c65dce3ff08e0e493ff9986b5fcf1efcd21aada2"
+    },
+    {
+      "sample_id": 28223,
+      "dataset_index": 28223,
+      "data_key": "76303",
+      "atoms": 119,
+      "candidate_seeds": [
+        40570,
+        140573,
+        240576,
+        340579,
+        440582
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "11175e8ac2bd3d1d836c43681ec95edc9db0d349fcaa9ea5cc55605378c327d8"
+    },
+    {
+      "sample_id": 23920,
+      "dataset_index": 23920,
+      "data_key": "38720",
+      "atoms": 104,
+      "candidate_seeds": [
+        36267,
+        136270,
+        236273,
+        336276,
+        436279
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "f34b0b881e38467f2a75317140d8e968dde59c1a66f874abaf456d923a5e5a33"
+    },
+    {
+      "sample_id": 1068,
+      "dataset_index": 1068,
+      "data_key": "110009",
+      "atoms": 112,
+      "candidate_seeds": [
+        13415,
+        113418,
+        213421,
+        313424,
+        413427
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "d00026b4980b28ab0b9155981f4831edb5a45eb0235a3b764b2f6e08b6e7e22e"
+    },
+    {
+      "sample_id": 28540,
+      "dataset_index": 28540,
+      "data_key": "7899",
+      "atoms": 116,
+      "candidate_seeds": [
+        40887,
+        140890,
+        240893,
+        340896,
+        440899
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "3f2a01974aa2650ee26f147b850cca93c12551cd175295f7db0876b77802c35d"
+    },
+    {
+      "sample_id": 14258,
+      "dataset_index": 14258,
+      "data_key": "229037",
+      "atoms": 128,
+      "candidate_seeds": [
+        26605,
+        126608,
+        226611,
+        326614,
+        426617
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "7d89b3d52a7cc6d90f2a0b13000231edb2a4b3998812379cdef91726d5a6b7c1"
+    },
+    {
+      "sample_id": 9512,
+      "dataset_index": 9512,
+      "data_key": "187443",
+      "atoms": 111,
+      "candidate_seeds": [
+        21859,
+        121862,
+        221865,
+        321868,
+        421871
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "cc6e109745c2a877727a4e2c231dbeac51c5597b6818ba8e34e8575cb6d4533e"
+    },
+    {
+      "sample_id": 24227,
+      "dataset_index": 24227,
+      "data_key": "41459",
+      "atoms": 102,
+      "candidate_seeds": [
+        36574,
+        136577,
+        236580,
+        336583,
+        436586
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "5dabddaf39bf4523755606013ec5fbd72f4ffb60ce36c4c330552d29354da464"
+    },
+    {
+      "sample_id": 3500,
+      "dataset_index": 3500,
+      "data_key": "132095",
+      "atoms": 180,
+      "candidate_seeds": [
+        15847,
+        115850,
+        215853,
+        315856,
+        415859
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "e87c8e61188875356bd45b5a008049f0b8603194d9c41fe716ef2b3a2c6c491a"
+    },
+    {
+      "sample_id": 30389,
+      "dataset_index": 30389,
+      "data_key": "95463",
+      "atoms": 144,
+      "candidate_seeds": [
+        42736,
+        142739,
+        242742,
+        342745,
+        442748
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "12324d3ed92db960eba813d73b4f213d1050f964044972c9ad12f3484aec9326"
+    },
+    {
+      "sample_id": 29476,
+      "dataset_index": 29476,
+      "data_key": "87286",
+      "atoms": 174,
+      "candidate_seeds": [
+        41823,
+        141826,
+        241829,
+        341832,
+        441835
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "830d6ed2d6ccbfd9b1b4078d4e80cdfc7cbc4c479675144b9f7c8b2d51951da3"
+    },
+    {
+      "sample_id": 11409,
+      "dataset_index": 11409,
+      "data_key": "204244",
+      "atoms": 136,
+      "candidate_seeds": [
+        23756,
+        123759,
+        223762,
+        323765,
+        423768
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "7f0418d9d8c53fd7d1cbce1d8137d1d54f6f19685f771e8924c66214564149d0"
+    },
+    {
+      "sample_id": 21765,
+      "dataset_index": 21765,
+      "data_key": "29709",
+      "atoms": 137,
+      "candidate_seeds": [
+        34112,
+        134115,
+        234118,
+        334121,
+        434124
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "b07bc2d0731d2d3598e100c535215a1ca1695d6cadb17f043e1bffe6d0fe0493"
+    },
+    {
+      "sample_id": 13995,
+      "dataset_index": 13995,
+      "data_key": "226642",
+      "atoms": 108,
+      "candidate_seeds": [
+        26342,
+        126345,
+        226348,
+        326351,
+        426354
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "f26164a5797e03fba94cf58564dfd10f3d9eafa47bf1b87167aee2ef4e952ac8"
+    },
+    {
+      "sample_id": 17248,
+      "dataset_index": 17248,
+      "data_key": "255776",
+      "atoms": 120,
+      "candidate_seeds": [
+        29595,
+        129598,
+        229601,
+        329604,
+        429607
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "a2d5002fb13480f8e34461f6bec36fa86be17499e2a17df92f242d1c7ea4cf5d"
+    },
+    {
+      "sample_id": 10316,
+      "dataset_index": 10316,
+      "data_key": "194921",
+      "atoms": 124,
+      "candidate_seeds": [
+        22663,
+        122666,
+        222669,
+        322672,
+        422675
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "efad4922b97d4a916754eed716dec979da029e7d6c8f330599911e6f780fb073"
+    },
+    {
+      "sample_id": 12826,
+      "dataset_index": 12826,
+      "data_key": "216565",
+      "atoms": 142,
+      "candidate_seeds": [
+        25173,
+        125176,
+        225179,
+        325182,
+        425185
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "a73da84b3ec26a41c0758d9e24eeeca08920c9a46c2a0b38a5dc8bc88fc41c5c"
+    },
+    {
+      "sample_id": 11061,
+      "dataset_index": 11061,
+      "data_key": "201245",
+      "atoms": 98,
+      "candidate_seeds": [
+        23408,
+        123411,
+        223414,
+        323417,
+        423420
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "c2d3cd6eab735e874ae64e8a0f95b5624a9cc684fe666ab05f658d92550d0f97"
+    },
+    {
+      "sample_id": 3953,
+      "dataset_index": 3953,
+      "data_key": "136527",
+      "atoms": 128,
+      "candidate_seeds": [
+        16300,
+        116303,
+        216306,
+        316309,
+        416312
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "999d238a5cd3f3cbb52dc4ef7c28cc73d5944c07d1bfafd0be9d83767036ff59"
+    },
+    {
+      "sample_id": 26910,
+      "dataset_index": 26910,
+      "data_key": "65058",
+      "atoms": 156,
+      "candidate_seeds": [
+        39257,
+        139260,
+        239263,
+        339266,
+        439269
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "d6b03fe6af3b61d55970d4e106f7036c25bb819e53af34da9d2da9e064f7765d"
+    },
+    {
+      "sample_id": 4599,
+      "dataset_index": 4599,
+      "data_key": "142435",
+      "atoms": 98,
+      "candidate_seeds": [
+        16946,
+        116949,
+        216952,
+        316955,
+        416958
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "2f297b276d576b66871060fc413d46fb2534a07b4ec07bbe2426dbaea9575758"
+    },
+    {
+      "sample_id": 18230,
+      "dataset_index": 18230,
+      "data_key": "264779",
+      "atoms": 113,
+      "candidate_seeds": [
+        30577,
+        130580,
+        230583,
+        330586,
+        430589
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "a4636fd2d4a5fc503708b85329aaa5176b82b305d15d310477272a88c51203b2"
+    },
+    {
+      "sample_id": 21415,
+      "dataset_index": 21415,
+      "data_key": "293998",
+      "atoms": 110,
+      "candidate_seeds": [
+        33762,
+        133765,
+        233768,
+        333771,
+        433774
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "2fcb1f5f1da8b56c6b1fdf19ca5d3cebd8466f731c14251d823afa948446d6fd"
+    },
+    {
+      "sample_id": 29594,
+      "dataset_index": 29594,
+      "data_key": "88210",
+      "atoms": 154,
+      "candidate_seeds": [
+        41941,
+        141944,
+        241947,
+        341950,
+        441953
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "f70cae5e3cdfbd706417bb7b0c0916174ec50d4f6bdca15697d60330c4b01a29"
+    },
+    {
+      "sample_id": 5298,
+      "dataset_index": 5298,
+      "data_key": "148690",
+      "atoms": 138,
+      "candidate_seeds": [
+        17645,
+        117648,
+        217651,
+        317654,
+        417657
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "e075176e180c7995dc5c2d348ce7b92307bc37cafe3be333f8a3a7e479c5ae94"
+    },
+    {
+      "sample_id": 4874,
+      "dataset_index": 4874,
+      "data_key": "144866",
+      "atoms": 152,
+      "candidate_seeds": [
+        17221,
+        117224,
+        217227,
+        317230,
+        417233
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "a965b655aac06bb584d7d829e2a55cb27781f6d7df4fe1831e309629387c0586"
+    },
+    {
+      "sample_id": 1417,
+      "dataset_index": 1417,
+      "data_key": "113393",
+      "atoms": 162,
+      "candidate_seeds": [
+        13764,
+        113767,
+        213770,
+        313773,
+        413776
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "e39e49df0cec2cc0d27cb1959c4379d190ba43f1a51216a17ba0febc84e17d09"
+    },
+    {
+      "sample_id": 1464,
+      "dataset_index": 1464,
+      "data_key": "113769",
+      "atoms": 118,
+      "candidate_seeds": [
+        13811,
+        113814,
+        213817,
+        313820,
+        413823
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "8858de61bba9f1c6918523a080d95310ec6c916fbf031ed711bbb7797b08f780"
+    },
+    {
+      "sample_id": 19813,
+      "dataset_index": 19813,
+      "data_key": "279856",
+      "atoms": 142,
+      "candidate_seeds": [
+        32160,
+        132163,
+        232166,
+        332169,
+        432172
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "6213273b486e00a004e141de9da09e15c26d4688c512ebd2f05953ac4596630e"
+    },
+    {
+      "sample_id": 20147,
+      "dataset_index": 20147,
+      "data_key": "282474",
+      "atoms": 124,
+      "candidate_seeds": [
+        32494,
+        132497,
+        232500,
+        332503,
+        432506
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "d71d30ed2880883fda88b9193a3c098d5923c32bc561a9a5f434c23fea5acb4d"
+    },
+    {
+      "sample_id": 88,
+      "dataset_index": 88,
+      "data_key": "100910",
+      "atoms": 156,
+      "candidate_seeds": [
+        12435,
+        112438,
+        212441,
+        312444,
+        412447
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "1faf403671a2b7e93972075accf4b6f344a8f5a1f6beb029379e8c177c36209e"
+    },
+    {
+      "sample_id": 25821,
+      "dataset_index": 25821,
+      "data_key": "55501",
+      "atoms": 186,
+      "candidate_seeds": [
+        38168,
+        138171,
+        238174,
+        338177,
+        438180
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "d1ca0a2343a24795288d41307279ec354bc3d77a64abd4ae2fd4184d7a197fe3"
+    },
+    {
+      "sample_id": 6848,
+      "dataset_index": 6848,
+      "data_key": "16274",
+      "atoms": 160,
+      "candidate_seeds": [
+        19195,
+        119198,
+        219201,
+        319204,
+        419207
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "b2f044db95bcac75cbe23a7c88e78a490da70ff17403a4834501117e4eb0c119"
+    },
+    {
+      "sample_id": 448,
+      "dataset_index": 448,
+      "data_key": "10422",
+      "atoms": 162,
+      "candidate_seeds": [
+        12795,
+        112798,
+        212801,
+        312804,
+        412807
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "cc3f51093dc7859dce8b9bc923daac8859fe14f2bd03c3b2657dfbf79116c655"
+    },
+    {
+      "sample_id": 8815,
+      "dataset_index": 8815,
+      "data_key": "180381",
+      "atoms": 108,
+      "candidate_seeds": [
+        21162,
+        121165,
+        221168,
+        321171,
+        421174
+      ],
+      "size_bin": "97-192",
+      "input_sha256": "c74e3035e32218153433d92f6c7658ad1b420c14433a43d07306abb6b2230502"
+    },
+    {
+      "sample_id": 4807,
+      "dataset_index": 4807,
+      "data_key": "144335",
+      "atoms": 200,
+      "candidate_seeds": [
+        17154,
+        117157,
+        217160,
+        317163,
+        417166
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "2a651a93e37915fa31c7119af5973aecc4f7957e35b4e5712753148d4806f048"
+    },
+    {
+      "sample_id": 1622,
+      "dataset_index": 1622,
+      "data_key": "115037",
+      "atoms": 380,
+      "candidate_seeds": [
+        13969,
+        113972,
+        213975,
+        313978,
+        413981
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "420e288b08f4a7261d21a43ca4198588a3432da9df8466018d69e109997247ef"
+    },
+    {
+      "sample_id": 8041,
+      "dataset_index": 8041,
+      "data_key": "173240",
+      "atoms": 276,
+      "candidate_seeds": [
+        20388,
+        120391,
+        220394,
+        320397,
+        420400
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "5922e62e65a91e0317b9fe98ab5e4fdbafb47760b00477dc326268c175e526d9"
+    },
+    {
+      "sample_id": 29689,
+      "dataset_index": 29689,
+      "data_key": "89292",
+      "atoms": 200,
+      "candidate_seeds": [
+        42036,
+        142039,
+        242042,
+        342045,
+        442048
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "838c41e9a55ccebd8dc57bb85dbaa7c7b16950e45a1c8f534096e38a1093bdca"
+    },
+    {
+      "sample_id": 13061,
+      "dataset_index": 13061,
+      "data_key": "218700",
+      "atoms": 254,
+      "candidate_seeds": [
+        25408,
+        125411,
+        225414,
+        325417,
+        425420
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "dbc0aebc031f6c5af25f268f6d05d6301cab3b208bf8fe23ed0a89534fd612a6"
+    },
+    {
+      "sample_id": 17513,
+      "dataset_index": 17513,
+      "data_key": "258214",
+      "atoms": 316,
+      "candidate_seeds": [
+        29860,
+        129863,
+        229866,
+        329869,
+        429872
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "867e2e85ba1fed53723954e62ecff25fb7cda4ceb9a0ccfa305a296a3fbc4762"
+    },
+    {
+      "sample_id": 4920,
+      "dataset_index": 4920,
+      "data_key": "145347",
+      "atoms": 316,
+      "candidate_seeds": [
+        17267,
+        117270,
+        217273,
+        317276,
+        417279
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "05a989b8b7e291d5719eb349dfa1791abbea205c2c784c2bb5842fdd1d5b48c3"
+    },
+    {
+      "sample_id": 30727,
+      "dataset_index": 30727,
+      "data_key": "98554",
+      "atoms": 276,
+      "candidate_seeds": [
+        43074,
+        143077,
+        243080,
+        343083,
+        443086
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "3cf91e84c399c33ec47c0282569592c465ea67d7340e9afb1e3c96b7fdcc789a"
+    },
+    {
+      "sample_id": 30547,
+      "dataset_index": 30547,
+      "data_key": "96891",
+      "atoms": 304,
+      "candidate_seeds": [
+        42894,
+        142897,
+        242900,
+        342903,
+        442906
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "2fe82c4bb66191cfda23cfb402f41f62297ab62fd3687538fc95d85009bad7c7"
+    },
+    {
+      "sample_id": 30059,
+      "dataset_index": 30059,
+      "data_key": "92634",
+      "atoms": 194,
+      "candidate_seeds": [
+        42406,
+        142409,
+        242412,
+        342415,
+        442418
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "384a9a27dd2f14e57143d9f84dd0f03fbfc549417e93ab546b25a31d0ff10898"
+    },
+    {
+      "sample_id": 2401,
+      "dataset_index": 2401,
+      "data_key": "121996",
+      "atoms": 205,
+      "candidate_seeds": [
+        14748,
+        114751,
+        214754,
+        314757,
+        414760
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "78747e9bed2ba2912725725c7d92c9419e177badb91ee16e9224c09277828973"
+    },
+    {
+      "sample_id": 19485,
+      "dataset_index": 19485,
+      "data_key": "276864",
+      "atoms": 242,
+      "candidate_seeds": [
+        31832,
+        131835,
+        231838,
+        331841,
+        431844
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "e1187766f03b47d55939971bc61f1a8a6c3ad47efd745e5247e94f7040f94155"
+    },
+    {
+      "sample_id": 21059,
+      "dataset_index": 21059,
+      "data_key": "290826",
+      "atoms": 280,
+      "candidate_seeds": [
+        33406,
+        133409,
+        233412,
+        333415,
+        433418
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "a917763806faa8c579172c94cd23f962918547a64c51097ed8bd8fd90eccafc5"
+    },
+    {
+      "sample_id": 28444,
+      "dataset_index": 28444,
+      "data_key": "78194",
+      "atoms": 262,
+      "candidate_seeds": [
+        40791,
+        140794,
+        240797,
+        340800,
+        440803
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "602ac419a821af8453f0f627b6aec644e6b282b957b4020872dfc1356f3cee1f"
+    },
+    {
+      "sample_id": 14717,
+      "dataset_index": 14717,
+      "data_key": "233092",
+      "atoms": 340,
+      "candidate_seeds": [
+        27064,
+        127067,
+        227070,
+        327073,
+        427076
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "296262299718b8cbd5c9569ddca850dddaa492c169d536d63274b776dd33c071"
+    },
+    {
+      "sample_id": 20757,
+      "dataset_index": 20757,
+      "data_key": "288204",
+      "atoms": 224,
+      "candidate_seeds": [
+        33104,
+        133107,
+        233110,
+        333113,
+        433116
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "8ccd731df2d56846a81cdad2f1abc4a5ede7ad1c33f4770cfb0346ed69a22c71"
+    },
+    {
+      "sample_id": 3662,
+      "dataset_index": 3662,
+      "data_key": "133656",
+      "atoms": 356,
+      "candidate_seeds": [
+        16009,
+        116012,
+        216015,
+        316018,
+        416021
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "22d5f5d28d4a86adb4aa245a0da579db74c2741dec31e4606caa3ffba533b0ab"
+    },
+    {
+      "sample_id": 17122,
+      "dataset_index": 17122,
+      "data_key": "254622",
+      "atoms": 278,
+      "candidate_seeds": [
+        29469,
+        129472,
+        229475,
+        329478,
+        429481
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "13c63a4791b99867b75a694c2946a32d14f67c58cb309bcd9e4cc5c176e5a592"
+    },
+    {
+      "sample_id": 4852,
+      "dataset_index": 4852,
+      "data_key": "14470",
+      "atoms": 206,
+      "candidate_seeds": [
+        17199,
+        117202,
+        217205,
+        317208,
+        417211
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "108ade566f8fe547fad6f7616ceea6935f285881f3d8998c69518dc26024f991"
+    },
+    {
+      "sample_id": 28682,
+      "dataset_index": 28682,
+      "data_key": "80308",
+      "atoms": 250,
+      "candidate_seeds": [
+        41029,
+        141032,
+        241035,
+        341038,
+        441041
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "1ca363dbef6f132e1c48d972c51f8ca34cc9da25ed23a485afdffc52f7e58fa8"
+    },
+    {
+      "sample_id": 10226,
+      "dataset_index": 10226,
+      "data_key": "19419",
+      "atoms": 224,
+      "candidate_seeds": [
+        22573,
+        122576,
+        222579,
+        322582,
+        422585
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "cf97237fd62f4059b72625ba5fbf7e922d5cda21caf12afe79a609e626dd8bb6"
+    },
+    {
+      "sample_id": 9652,
+      "dataset_index": 9652,
+      "data_key": "188856",
+      "atoms": 212,
+      "candidate_seeds": [
+        21999,
+        122002,
+        222005,
+        322008,
+        422011
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "6f726061f15775a9270ce2b037e10516ac451c34770b299c176192e80e4abc66"
+    },
+    {
+      "sample_id": 1718,
+      "dataset_index": 1718,
+      "data_key": "115971",
+      "atoms": 324,
+      "candidate_seeds": [
+        14065,
+        114068,
+        214071,
+        314074,
+        414077
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "5ccac939978d293d67342e87bcc0dd25d5b578764ffdf6067cb830edd496f005"
+    },
+    {
+      "sample_id": 3842,
+      "dataset_index": 3842,
+      "data_key": "135593",
+      "atoms": 244,
+      "candidate_seeds": [
+        16189,
+        116192,
+        216195,
+        316198,
+        416201
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "658579483aeccc778473f42c0de17b4e45e14b1b6b79cf96642ade6d23a6a300"
+    },
+    {
+      "sample_id": 29979,
+      "dataset_index": 29979,
+      "data_key": "91820",
+      "atoms": 202,
+      "candidate_seeds": [
+        42326,
+        142329,
+        242332,
+        342335,
+        442338
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "2a4f2a01863fc66e77b9d6ad184e08d4ca99c83e062b8f3223885c7b06d4f590"
+    },
+    {
+      "sample_id": 10192,
+      "dataset_index": 10192,
+      "data_key": "193887",
+      "atoms": 268,
+      "candidate_seeds": [
+        22539,
+        122542,
+        222545,
+        322548,
+        422551
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "9d429cf35da9cb6977760ff32628b5810c499fcfe0242d12c198be0c20ea6043"
+    },
+    {
+      "sample_id": 6621,
+      "dataset_index": 6621,
+      "data_key": "160553",
+      "atoms": 238,
+      "candidate_seeds": [
+        18968,
+        118971,
+        218974,
+        318977,
+        418980
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "0e222ebc94052753b3d71441ebfa749f4d19ba20022ca10acf46445495dab2ca"
+    },
+    {
+      "sample_id": 15354,
+      "dataset_index": 15354,
+      "data_key": "238547",
+      "atoms": 268,
+      "candidate_seeds": [
+        27701,
+        127704,
+        227707,
+        327710,
+        427713
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "39b0fa79b96673e644124a4d73cb10ceba9598637bcb086eeb5c094ea526200a"
+    },
+    {
+      "sample_id": 11793,
+      "dataset_index": 11793,
+      "data_key": "207660",
+      "atoms": 372,
+      "candidate_seeds": [
+        24140,
+        124143,
+        224146,
+        324149,
+        424152
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "57bebfca942207a19fec2a365b83f1126304362b007ce893fbe3240668648e42"
+    },
+    {
+      "sample_id": 22747,
+      "dataset_index": 22747,
+      "data_key": "306115",
+      "atoms": 240,
+      "candidate_seeds": [
+        35094,
+        135097,
+        235100,
+        335103,
+        435106
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "ae017292b515a27d0045f2286c8463e4ef1e2e9ee034661a089d39bcc48a3b78"
+    },
+    {
+      "sample_id": 30577,
+      "dataset_index": 30577,
+      "data_key": "97184",
+      "atoms": 220,
+      "candidate_seeds": [
+        42924,
+        142927,
+        242930,
+        342933,
+        442936
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "f863474f8c49f513607d72a65af9322c75835a8aeb3d7da77fb405f096fcaadd"
+    },
+    {
+      "sample_id": 16111,
+      "dataset_index": 16111,
+      "data_key": "24563",
+      "atoms": 230,
+      "candidate_seeds": [
+        28458,
+        128461,
+        228464,
+        328467,
+        428470
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "aaab3f41faeb6670f1b310b326c6692ba01121cb450a8f816a329fd9ff66eccf"
+    },
+    {
+      "sample_id": 24995,
+      "dataset_index": 24995,
+      "data_key": "48248",
+      "atoms": 280,
+      "candidate_seeds": [
+        37342,
+        137345,
+        237348,
+        337351,
+        437354
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "af532416e5f57fc985da39f64cb25786df2a74ff87dd1fb761ec64a482fc182a"
+    },
+    {
+      "sample_id": 5223,
+      "dataset_index": 5223,
+      "data_key": "147958",
+      "atoms": 200,
+      "candidate_seeds": [
+        17570,
+        117573,
+        217576,
+        317579,
+        417582
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "00ddea0204c8bbba61f33f015ded3742c6555b8a53dcb1e822c07af5b79827f0"
+    },
+    {
+      "sample_id": 6502,
+      "dataset_index": 6502,
+      "data_key": "159443",
+      "atoms": 324,
+      "candidate_seeds": [
+        18849,
+        118852,
+        218855,
+        318858,
+        418861
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "47e05c7b3326b9285aab7b73e5a920e7af1471aa039b18fc7dabd861fd770e7a"
+    },
+    {
+      "sample_id": 5216,
+      "dataset_index": 5216,
+      "data_key": "147885",
+      "atoms": 270,
+      "candidate_seeds": [
+        17563,
+        117566,
+        217569,
+        317572,
+        417575
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "cc5ecb26593d1abec363efa31e9a9e6aab8f3d38628f6168ec2e561ae4234422"
+    },
+    {
+      "sample_id": 15553,
+      "dataset_index": 15553,
+      "data_key": "240427",
+      "atoms": 202,
+      "candidate_seeds": [
+        27900,
+        127903,
+        227906,
+        327909,
+        427912
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "b4c659ad155a4b1843f42b9aca9d7897dc807d253eea40fa70de95e1ccb11d5e"
+    },
+    {
+      "sample_id": 7250,
+      "dataset_index": 7250,
+      "data_key": "166258",
+      "atoms": 288,
+      "candidate_seeds": [
+        19597,
+        119600,
+        219603,
+        319606,
+        419609
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "54022ff6dc915045ca901c0412ebf28cef7a99cbd2b070db7a0fa63f0635bc55"
+    },
+    {
+      "sample_id": 355,
+      "dataset_index": 355,
+      "data_key": "10334",
+      "atoms": 195,
+      "candidate_seeds": [
+        12702,
+        112705,
+        212708,
+        312711,
+        412714
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "8751928930ff0255b56ead1f7db65034110b4aed0b01475a90b128298aaffb66"
+    },
+    {
+      "sample_id": 13386,
+      "dataset_index": 13386,
+      "data_key": "221447",
+      "atoms": 198,
+      "candidate_seeds": [
+        25733,
+        125736,
+        225739,
+        325742,
+        425745
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "71fd6dd09f80c63d55842a43822bfbe63ced17842a06c1cec2e8ee47d82ad58c"
+    },
+    {
+      "sample_id": 26207,
+      "dataset_index": 26207,
+      "data_key": "58694",
+      "atoms": 264,
+      "candidate_seeds": [
+        38554,
+        138557,
+        238560,
+        338563,
+        438566
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "4037fb7e215ee68eebacfc9a50021a83a08942592259536328ed2082a7d4e122"
+    },
+    {
+      "sample_id": 28478,
+      "dataset_index": 28478,
+      "data_key": "78391",
+      "atoms": 312,
+      "candidate_seeds": [
+        40825,
+        140828,
+        240831,
+        340834,
+        440837
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "7c90420332d8256b344602e05d457c77e7a7f28ce3a9c6798b3bced66f7ab05a"
+    },
+    {
+      "sample_id": 15912,
+      "dataset_index": 15912,
+      "data_key": "243480",
+      "atoms": 267,
+      "candidate_seeds": [
+        28259,
+        128262,
+        228265,
+        328268,
+        428271
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "f651fce0ebbc562e9c77bdf51a1be0f185cebb0f3b80d693e7260102aa9afa2b"
+    },
+    {
+      "sample_id": 18508,
+      "dataset_index": 18508,
+      "data_key": "267361",
+      "atoms": 204,
+      "candidate_seeds": [
+        30855,
+        130858,
+        230861,
+        330864,
+        430867
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "59f1d71d66edca6bf3aa12d6387a6c3e4d49a199c8bc84e965a52ba189ef5e02"
+    },
+    {
+      "sample_id": 9659,
+      "dataset_index": 9659,
+      "data_key": "188909",
+      "atoms": 324,
+      "candidate_seeds": [
+        22006,
+        122009,
+        222012,
+        322015,
+        422018
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "4c4b03e53647f796157cbaa737823b81df4c979791b7b6d50bb0c4de15d816f4"
+    },
+    {
+      "sample_id": 4706,
+      "dataset_index": 4706,
+      "data_key": "143420",
+      "atoms": 340,
+      "candidate_seeds": [
+        17053,
+        117056,
+        217059,
+        317062,
+        417065
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "cafcbae56796919d217a6669f4e27d17c70f2ec847f5547fba9726fabce532dc"
+    },
+    {
+      "sample_id": 28409,
+      "dataset_index": 28409,
+      "data_key": "77891",
+      "atoms": 340,
+      "candidate_seeds": [
+        40756,
+        140759,
+        240762,
+        340765,
+        440768
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "1fcf2dd91475bfdf0bac63d2194ee4025ffd276613269fe12d2950eae6399b3e"
+    },
+    {
+      "sample_id": 2172,
+      "dataset_index": 2172,
+      "data_key": "120022",
+      "atoms": 340,
+      "candidate_seeds": [
+        14519,
+        114522,
+        214525,
+        314528,
+        414531
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "1c24eea73280edf3f8ac05be4bbd2e56ba868c904e4b92eb84ef5e628628fdfe"
+    },
+    {
+      "sample_id": 27670,
+      "dataset_index": 27670,
+      "data_key": "71633",
+      "atoms": 209,
+      "candidate_seeds": [
+        40017,
+        140020,
+        240023,
+        340026,
+        440029
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "2d5126ca8418e4114c032d7cc6102c07a8b3d4a80a0f992321930cfd50c2c6ed"
+    },
+    {
+      "sample_id": 12652,
+      "dataset_index": 12652,
+      "data_key": "215054",
+      "atoms": 202,
+      "candidate_seeds": [
+        24999,
+        125002,
+        225005,
+        325008,
+        425011
+      ],
+      "size_bin": "193-384",
+      "input_sha256": "ac5dd692f624a7c103c7928f98e761f8338cb6c54687d55e76b41e97b435e895"
+    },
+    {
+      "sample_id": 14904,
+      "dataset_index": 14904,
+      "data_key": "234847",
+      "atoms": 444,
+      "candidate_seeds": [
+        27251,
+        127254,
+        227257,
+        327260,
+        427263
+      ],
+      "size_bin": "385+",
+      "input_sha256": "698075422cb7da82d2ea3e22d38d86f32f0e7bcf311b00cf532bc82dd5713311"
+    },
+    {
+      "sample_id": 18983,
+      "dataset_index": 18983,
+      "data_key": "272076",
+      "atoms": 460,
+      "candidate_seeds": [
+        31330,
+        131333,
+        231336,
+        331339,
+        431342
+      ],
+      "size_bin": "385+",
+      "input_sha256": "1a19c142a57137ba0b5a73e5f73b50054020687a40ad2ee1847900a0d37affcb"
+    },
+    {
+      "sample_id": 6861,
+      "dataset_index": 6861,
+      "data_key": "162850",
+      "atoms": 404,
+      "candidate_seeds": [
+        19208,
+        119211,
+        219214,
+        319217,
+        419220
+      ],
+      "size_bin": "385+",
+      "input_sha256": "19e01dce14cd3340ebf586a85eed9126b502459690520edd1271dae0ff7d6eba"
+    },
+    {
+      "sample_id": 3623,
+      "dataset_index": 3623,
+      "data_key": "13329",
+      "atoms": 700,
+      "candidate_seeds": [
+        15970,
+        115973,
+        215976,
+        315979,
+        415982
+      ],
+      "size_bin": "385+",
+      "input_sha256": "de248cba6bd95d49da8a504d1531b7b151010b4f3e47fea39614b2c14c538a25"
+    },
+    {
+      "sample_id": 20899,
+      "dataset_index": 20899,
+      "data_key": "289472",
+      "atoms": 462,
+      "candidate_seeds": [
+        33246,
+        133249,
+        233252,
+        333255,
+        433258
+      ],
+      "size_bin": "385+",
+      "input_sha256": "37d73c318a3c2573be2ed2645fdaeb1c5eaa69d4c61e3c9d09c6a36db690df9f"
+    },
+    {
+      "sample_id": 17813,
+      "dataset_index": 17813,
+      "data_key": "260773",
+      "atoms": 392,
+      "candidate_seeds": [
+        30160,
+        130163,
+        230166,
+        330169,
+        430172
+      ],
+      "size_bin": "385+",
+      "input_sha256": "29cbdd03dfab95514518dec7d7749a79ce4f0291f333cc53a4e1632135f799ba"
+    },
+    {
+      "sample_id": 23826,
+      "dataset_index": 23826,
+      "data_key": "3788",
+      "atoms": 636,
+      "candidate_seeds": [
+        36173,
+        136176,
+        236179,
+        336182,
+        436185
+      ],
+      "size_bin": "385+",
+      "input_sha256": "e6bc163098ef74d021dbdaf6062e1c706d1c1c791beb72dcf79ffb6ff3405dfd"
+    },
+    {
+      "sample_id": 25774,
+      "dataset_index": 25774,
+      "data_key": "54906",
+      "atoms": 484,
+      "candidate_seeds": [
+        38121,
+        138124,
+        238127,
+        338130,
+        438133
+      ],
+      "size_bin": "385+",
+      "input_sha256": "ae2ab913f0c6a45b09587b60c1bfd3714126a4fddee5f84d59be276bed59750b"
+    },
+    {
+      "sample_id": 2306,
+      "dataset_index": 2306,
+      "data_key": "121249",
+      "atoms": 452,
+      "candidate_seeds": [
+        14653,
+        114656,
+        214659,
+        314662,
+        414665
+      ],
+      "size_bin": "385+",
+      "input_sha256": "dc0f3c7e3c831caf72dcc0d1fa574a3c740f2abedfc6e4667e615c964f959df4"
+    },
+    {
+      "sample_id": 66,
+      "dataset_index": 66,
+      "data_key": "100754",
+      "atoms": 412,
+      "candidate_seeds": [
+        12413,
+        112416,
+        212419,
+        312422,
+        412425
+      ],
+      "size_bin": "385+",
+      "input_sha256": "9a28bf0468a94374638231cce553aeff551dc92fb0a361ad0671b9a9e44683f0"
+    },
+    {
+      "sample_id": 13195,
+      "dataset_index": 13195,
+      "data_key": "219745",
+      "atoms": 396,
+      "candidate_seeds": [
+        25542,
+        125545,
+        225548,
+        325551,
+        425554
+      ],
+      "size_bin": "385+",
+      "input_sha256": "eb977b8343e21e4cd2fb3dc3484627704ad6e9e145f5b709984b57b2df8bfee2"
+    },
+    {
+      "sample_id": 26441,
+      "dataset_index": 26441,
+      "data_key": "60814",
+      "atoms": 484,
+      "candidate_seeds": [
+        38788,
+        138791,
+        238794,
+        338797,
+        438800
+      ],
+      "size_bin": "385+",
+      "input_sha256": "0daf4e7f3c5bcd7d74ddb0a351b70dd5d547ad2c33fef845107b9c4af355025f"
+    },
+    {
+      "sample_id": 25015,
+      "dataset_index": 25015,
+      "data_key": "48450",
+      "atoms": 444,
+      "candidate_seeds": [
+        37362,
+        137365,
+        237368,
+        337371,
+        437374
+      ],
+      "size_bin": "385+",
+      "input_sha256": "a9949df76b93e8bcd44ab3288a0d259eeec68977cfd754333bfd0afb2ddd2193"
+    },
+    {
+      "sample_id": 27922,
+      "dataset_index": 27922,
+      "data_key": "73707",
+      "atoms": 468,
+      "candidate_seeds": [
+        40269,
+        140272,
+        240275,
+        340278,
+        440281
+      ],
+      "size_bin": "385+",
+      "input_sha256": "021afea282fd1ef5fb19b3e36dda628a19dfece6f9a0cf669aa44efd6ee592fd"
+    },
+    {
+      "sample_id": 3586,
+      "dataset_index": 3586,
+      "data_key": "132906",
+      "atoms": 564,
+      "candidate_seeds": [
+        15933,
+        115936,
+        215939,
+        315942,
+        415945
+      ],
+      "size_bin": "385+",
+      "input_sha256": "983176c60eac1e123f46b4ff270b91e35e916c3a060ab0158a8be541398f8dc6"
+    },
+    {
+      "sample_id": 15306,
+      "dataset_index": 15306,
+      "data_key": "238238",
+      "atoms": 468,
+      "candidate_seeds": [
+        27653,
+        127656,
+        227659,
+        327662,
+        427665
+      ],
+      "size_bin": "385+",
+      "input_sha256": "77df3bfe8b258b9ff7a74ce58cd07539f2e296baa440c140d4bd22315224098f"
+    },
+    {
+      "sample_id": 7123,
+      "dataset_index": 7123,
+      "data_key": "165051",
+      "atoms": 412,
+      "candidate_seeds": [
+        19470,
+        119473,
+        219476,
+        319479,
+        419482
+      ],
+      "size_bin": "385+",
+      "input_sha256": "0ca5f87626b9e5687f90cd9f2b11117a050723f38c203718b79b24c3013ba9c3"
+    },
+    {
+      "sample_id": 2865,
+      "dataset_index": 2865,
+      "data_key": "12652",
+      "atoms": 420,
+      "candidate_seeds": [
+        15212,
+        115215,
+        215218,
+        315221,
+        415224
+      ],
+      "size_bin": "385+",
+      "input_sha256": "f7cbfee3282d69978803134322b50032ee4f67333be8200de9f7e5ce629ff4e5"
+    },
+    {
+      "sample_id": 7609,
+      "dataset_index": 7609,
+      "data_key": "169373",
+      "atoms": 388,
+      "candidate_seeds": [
+        19956,
+        119959,
+        219962,
+        319965,
+        419968
+      ],
+      "size_bin": "385+",
+      "input_sha256": "035aec22052623c96b65a382949cf533d2c5c5e9dd131574951d9795df6e06b0"
+    },
+    {
+      "sample_id": 26603,
+      "dataset_index": 26603,
+      "data_key": "62236",
+      "atoms": 388,
+      "candidate_seeds": [
+        38950,
+        138953,
+        238956,
+        338959,
+        438962
+      ],
+      "size_bin": "385+",
+      "input_sha256": "e0a5f0cc7922f784c4abce05e38eeda90539d50d1de619bacc6b08a6261797e0"
+    },
+    {
+      "sample_id": 18406,
+      "dataset_index": 18406,
+      "data_key": "266421",
+      "atoms": 544,
+      "candidate_seeds": [
+        30753,
+        130756,
+        230759,
+        330762,
+        430765
+      ],
+      "size_bin": "385+",
+      "input_sha256": "82a2338d6d29722f169cf2e34647c9ca278bf4f7e9ac16752b9f0876ce33a08b"
+    },
+    {
+      "sample_id": 10908,
+      "dataset_index": 10908,
+      "data_key": "199959",
+      "atoms": 452,
+      "candidate_seeds": [
+        23255,
+        123258,
+        223261,
+        323264,
+        423267
+      ],
+      "size_bin": "385+",
+      "input_sha256": "c074d1265f323c7cebade15bcd0861874d7e41811b2d668127e8aecdfcee50a7"
+    },
+    {
+      "sample_id": 7539,
+      "dataset_index": 7539,
+      "data_key": "168862",
+      "atoms": 540,
+      "candidate_seeds": [
+        19886,
+        119889,
+        219892,
+        319895,
+        419898
+      ],
+      "size_bin": "385+",
+      "input_sha256": "736301c130291309d8c35ec966960956a9168677bbb2ef9d4a93f4b0fbf0687e"
+    },
+    {
+      "sample_id": 12828,
+      "dataset_index": 12828,
+      "data_key": "216597",
+      "atoms": 700,
+      "candidate_seeds": [
+        25175,
+        125178,
+        225181,
+        325184,
+        425187
+      ],
+      "size_bin": "385+",
+      "input_sha256": "0ec3315071da742dc957d7b7ebad4f7f72bee6392fa32cd607301c25830131f1"
+    },
+    {
+      "sample_id": 15199,
+      "dataset_index": 15199,
+      "data_key": "237400",
+      "atoms": 452,
+      "candidate_seeds": [
+        27546,
+        127549,
+        227552,
+        327555,
+        427558
+      ],
+      "size_bin": "385+",
+      "input_sha256": "f5c9d7a713f77f160236ef507f7ebc3225007fb5e97bb0b85906a901c24989aa"
+    },
+    {
+      "sample_id": 22262,
+      "dataset_index": 22262,
+      "data_key": "301569",
+      "atoms": 452,
+      "candidate_seeds": [
+        34609,
+        134612,
+        234615,
+        334618,
+        434621
+      ],
+      "size_bin": "385+",
+      "input_sha256": "a357debfa886bd996818deff582d63649e5ec74ef997708f32db3fbffd9022ef"
+    },
+    {
+      "sample_id": 27209,
+      "dataset_index": 27209,
+      "data_key": "67624",
+      "atoms": 644,
+      "candidate_seeds": [
+        39556,
+        139559,
+        239562,
+        339565,
+        439568
+      ],
+      "size_bin": "385+",
+      "input_sha256": "156c5e27d4b7f58ab27575dcd2ed5383c572b5f5a774ee981b78cb3aae962737"
+    },
+    {
+      "sample_id": 17837,
+      "dataset_index": 17837,
+      "data_key": "26099",
+      "atoms": 468,
+      "candidate_seeds": [
+        30184,
+        130187,
+        230190,
+        330193,
+        430196
+      ],
+      "size_bin": "385+",
+      "input_sha256": "c2232e599459906034ed034c6a43a8e5dc30a6c854427ff629dbab56df77c475"
+    },
+    {
+      "sample_id": 13684,
+      "dataset_index": 13684,
+      "data_key": "223935",
+      "atoms": 660,
+      "candidate_seeds": [
+        26031,
+        126034,
+        226037,
+        326040,
+        426043
+      ],
+      "size_bin": "385+",
+      "input_sha256": "887463aa4a465ce98fdd10049f31b8c079aed1d42443373f1d3e4752a949c551"
+    },
+    {
+      "sample_id": 13720,
+      "dataset_index": 13720,
+      "data_key": "224252",
+      "atoms": 392,
+      "candidate_seeds": [
+        26067,
+        126070,
+        226073,
+        326076,
+        426079
+      ],
+      "size_bin": "385+",
+      "input_sha256": "7ca0e6aa2011951a8ef6fd890efc22191691c5c00c4014326c2d3d1f605dd810"
+    },
+    {
+      "sample_id": 22614,
+      "dataset_index": 22614,
+      "data_key": "304793",
+      "atoms": 400,
+      "candidate_seeds": [
+        34961,
+        134964,
+        234967,
+        334970,
+        434973
+      ],
+      "size_bin": "385+",
+      "input_sha256": "e97b7c5e3365efc8a66d90bc9dc2cd47051fb066152d93cdceae16c82140436b"
+    },
+    {
+      "sample_id": 20032,
+      "dataset_index": 20032,
+      "data_key": "281511",
+      "atoms": 540,
+      "candidate_seeds": [
+        32379,
+        132382,
+        232385,
+        332388,
+        432391
+      ],
+      "size_bin": "385+",
+      "input_sha256": "7a6722cb9f0d4cc63c03be41ba690d9039672114793634b5399069f1cf1cdadc"
+    },
+    {
+      "sample_id": 12203,
+      "dataset_index": 12203,
+      "data_key": "211109",
+      "atoms": 484,
+      "candidate_seeds": [
+        24550,
+        124553,
+        224556,
+        324559,
+        424562
+      ],
+      "size_bin": "385+",
+      "input_sha256": "84a8a07df9fe1daf65596831fa0bbb6242e65c93e6670a4890793ac92da899bb"
+    },
+    {
+      "sample_id": 3155,
+      "dataset_index": 3155,
+      "data_key": "128978",
+      "atoms": 444,
+      "candidate_seeds": [
+        15502,
+        115505,
+        215508,
+        315511,
+        415514
+      ],
+      "size_bin": "385+",
+      "input_sha256": "fa05af42406b68bb03c0640b42c2bd23ecb4856288fd65285fb784c84decd5ed"
+    },
+    {
+      "sample_id": 11974,
+      "dataset_index": 11974,
+      "data_key": "20922",
+      "atoms": 428,
+      "candidate_seeds": [
+        24321,
+        124324,
+        224327,
+        324330,
+        424333
+      ],
+      "size_bin": "385+",
+      "input_sha256": "e192be6c9c72e9ea3efc83055dd0446802c466af9d43bfb53074e2b646379892"
+    },
+    {
+      "sample_id": 2466,
+      "dataset_index": 2466,
+      "data_key": "122693",
+      "atoms": 636,
+      "candidate_seeds": [
+        14813,
+        114816,
+        214819,
+        314822,
+        414825
+      ],
+      "size_bin": "385+",
+      "input_sha256": "b69a7d156f676bbae95621578aa05d9efb71c882e3663b6e514b2f6eea6a7ed5"
+    },
+    {
+      "sample_id": 25421,
+      "dataset_index": 25421,
+      "data_key": "51998",
+      "atoms": 404,
+      "candidate_seeds": [
+        37768,
+        137771,
+        237774,
+        337777,
+        437780
+      ],
+      "size_bin": "385+",
+      "input_sha256": "876a55a9029182be11e3386292f8152c6b7c32f089d726a1bda3737fc2af3996"
+    },
+    {
+      "sample_id": 16802,
+      "dataset_index": 16802,
+      "data_key": "251545",
+      "atoms": 716,
+      "candidate_seeds": [
+        29149,
+        129152,
+        229155,
+        329158,
+        429161
+      ],
+      "size_bin": "385+",
+      "input_sha256": "d512b9c8cd57e222ad673903ba812903fdcb9e894c5f4cae2dcc924ede899d89"
+    },
+    {
+      "sample_id": 11388,
+      "dataset_index": 11388,
+      "data_key": "204074",
+      "atoms": 460,
+      "candidate_seeds": [
+        23735,
+        123738,
+        223741,
+        323744,
+        423747
+      ],
+      "size_bin": "385+",
+      "input_sha256": "ccd70ee91c5e2afc816988f06bea9f43b7999123b09e88c0775cd901fd01aa20"
+    },
+    {
+      "sample_id": 3317,
+      "dataset_index": 3317,
+      "data_key": "130410",
+      "atoms": 412,
+      "candidate_seeds": [
+        15664,
+        115667,
+        215670,
+        315673,
+        415676
+      ],
+      "size_bin": "385+",
+      "input_sha256": "5af4b0552cf21813984d1054d5d35e47f6ffb021ec8181d775739157f6bd1e9f"
+    },
+    {
+      "sample_id": 2362,
+      "dataset_index": 2362,
+      "data_key": "121697",
+      "atoms": 476,
+      "candidate_seeds": [
+        14709,
+        114712,
+        214715,
+        314718,
+        414721
+      ],
+      "size_bin": "385+",
+      "input_sha256": "cd3456c55a681df8213f28612eccf00f6ccf519865098b3a880fa74f3c7a9c9f"
+    },
+    {
+      "sample_id": 28202,
+      "dataset_index": 28202,
+      "data_key": "76100",
+      "atoms": 404,
+      "candidate_seeds": [
+        40549,
+        140552,
+        240555,
+        340558,
+        440561
+      ],
+      "size_bin": "385+",
+      "input_sha256": "2e277084d2b7dc1fcad54e0711fe12f410af3797ecf750f69859d70fa4c80325"
+    },
+    {
+      "sample_id": 4118,
+      "dataset_index": 4118,
+      "data_key": "137935",
+      "atoms": 476,
+      "candidate_seeds": [
+        16465,
+        116468,
+        216471,
+        316474,
+        416477
+      ],
+      "size_bin": "385+",
+      "input_sha256": "798d2e3b638a89844e558e021e65a0bd6128523a217e9498a52792b06299eb6f"
+    },
+    {
+      "sample_id": 595,
+      "dataset_index": 595,
+      "data_key": "105596",
+      "atoms": 412,
+      "candidate_seeds": [
+        12942,
+        112945,
+        212948,
+        312951,
+        412954
+      ],
+      "size_bin": "385+",
+      "input_sha256": "0100328c90026ce0a79f9595ea43d63ce4999c1a4bbce613f977396cf7b3293f"
+    },
+    {
+      "sample_id": 705,
+      "dataset_index": 705,
+      "data_key": "106713",
+      "atoms": 432,
+      "candidate_seeds": [
+        13052,
+        113055,
+        213058,
+        313061,
+        413064
+      ],
+      "size_bin": "385+",
+      "input_sha256": "52422b4ead30876b17d320ccd521fa5e1d818e50782dae020ff4c8b26a071316"
+    },
+    {
+      "sample_id": 25110,
+      "dataset_index": 25110,
+      "data_key": "49171",
+      "atoms": 500,
+      "candidate_seeds": [
+        37457,
+        137460,
+        237463,
+        337466,
+        437469
+      ],
+      "size_bin": "385+",
+      "input_sha256": "399f81c50befabba0b6233d44d876a90b11ba915edc50d1f1e05af71019407d7"
+    },
+    {
+      "sample_id": 2820,
+      "dataset_index": 2820,
+      "data_key": "126100",
+      "atoms": 492,
+      "candidate_seeds": [
+        15167,
+        115170,
+        215173,
+        315176,
+        415179
+      ],
+      "size_bin": "385+",
+      "input_sha256": "87797dbe05ae644025fa961cf4542e493da45bde91f6072954bac0e006a1ea8d"
+    },
+    {
+      "sample_id": 28704,
+      "dataset_index": 28704,
+      "data_key": "80476",
+      "atoms": 460,
+      "candidate_seeds": [
+        41051,
+        141054,
+        241057,
+        341060,
+        441063
+      ],
+      "size_bin": "385+",
+      "input_sha256": "0bded3a058ebda690aa16b69069f08ec24207dbc817f55bb97af85bbafe45194"
+    },
+    {
+      "sample_id": 5001,
+      "dataset_index": 5001,
+      "data_key": "145988",
+      "atoms": 680,
+      "candidate_seeds": [
+        17348,
+        117351,
+        217354,
+        317357,
+        417360
+      ],
+      "size_bin": "385+",
+      "input_sha256": "52205487d56b7157319fa7f39e501bea396764dc1ee4b5726b534f0d1b4955b5"
+    },
+    {
+      "sample_id": 7741,
+      "dataset_index": 7741,
+      "data_key": "170490",
+      "atoms": 524,
+      "candidate_seeds": [
+        20088,
+        120091,
+        220094,
+        320097,
+        420100
+      ],
+      "size_bin": "385+",
+      "input_sha256": "22c8cf6ebf5febcec880a6114d25bf2f34e8421d5c10d280f31d7e3731b2daa3"
+    }
+  ]
+}

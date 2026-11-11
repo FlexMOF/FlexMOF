@@ -1,0 +1,29 @@
+{
+  "model": "multigraph joint, PBC on, E370 coordinates with E226 composition-finetuned EMA",
+  "checkpoint": "SET_CHECKPOINT",
+  "checkpoint_sha256": "554503150202a309d906078479eeeb9662dddb0af9c1fe5e0681eea27954ea23",
+  "metadata_sha256": "a9310a9679186e836f121dcdae91974e55b41c7aefc22e5cd8837f73f8c1715e",
+  "metadata_count": 10000,
+  "data_root": "SET_DATA_ROOT",
+  "composition_seed_base": 19013,
+  "csp_denovo_seed_base": 1009013,
+  "composition_steps": 100,
+  "composition_churn": 8.0,
+  "noise_stream_version": 2,
+  "sampling_overrides": {
+    "pbc_cutoff": 40.0,
+    "pbc_expanded_token_cutoff": 896,
+    "pbc_expanded_num_cell_per_direction": 5,
+    "use_per_atom_outcell_index": true,
+    "mof_unwrap_linkers_and_center": true,
+    "mof_disable_pbc": false,
+    "mof_composition_max_total_atoms": 4096,
+    "num_recycles": 0,
+    "coordinate_sampler": "ddpm",
+    "num_timesteps": 5000,
+    "num_timesteps_stepsize": -1
+  },
+  "denominator": "All 10000 requested structures; numerical generation failures remain in the denominator, without resampling",
+  "validity": "MOFChecker 2.0, 15 checks; MOFFlow-2 16 checks also reported",
+  "novelty_uniqueness": "CIF-derived MOFid against the training set; singleton uniqueness"
+}
